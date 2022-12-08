@@ -1,0 +1,28 @@
+h3
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana;
+}
+#display_name
+{
+    font-weight: bold;
+}
+#submit_button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana;
+}
+#sort_button
+{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana;
+}
+input
+{
+    margin: 10px;
+    font-family: Verdana;
+}
